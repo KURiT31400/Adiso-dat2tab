@@ -1,1 +1,2 @@
-# Adiso-dat2tab
+# Read isotherm files
+Do Belsorp first
